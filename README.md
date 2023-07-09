@@ -19,4 +19,4 @@ Then asks you to pick your threat category.
 
 
 ![Screenshot from 2023-07-08 20-30-57](https://github.com/kennethrockson/System-Threat-Tracker/assets/110367362/30a092bf-3c02-43d5-8d5f-d9d85d0af446)
-Then it stores your data in a secure excel spreadsheet so the data can be sent, monitored, and logged.
+Then it stores your data in a secure excel spreadsheet so the data can be sent, analyzed, or logged.
