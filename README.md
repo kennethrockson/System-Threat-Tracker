@@ -2,8 +2,7 @@
 A threat tracker
 Read the Full Blog about it here https://kennethr.squarespace.com/blog/introducing-the-system-threat-tracker
 
-Allows organizations to keep track of threats that in an excel spreadsheet
-by inputting data or let data automatically be inputted
+Allows organizations to keep track of threats in an excel spreadsheet
 ![Screenshot from 2023-07-08 20-30-24](https://github.com/kennethrockson/System-Threat-Tracker/assets/110367362/e62446ec-0327-4b9d-8b67-9a7c96307a8c)
 
 
